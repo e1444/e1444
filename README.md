@@ -1,4 +1,4 @@
-## Hi there 👋
+3rd year Data Science major at the University of Toronto.
 
 <!--
 **e1444/e1444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
